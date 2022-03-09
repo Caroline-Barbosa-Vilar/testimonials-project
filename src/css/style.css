@@ -9,6 +9,12 @@
 .card-1 {
   grid-area: card-1;
   background-color: var(--moderate-violet);
+  width: 540px;
+  height: 280px;
+  background-image: url(../img/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  max-width: 100%;
+  background-position: 82% 0;
 }
 .user-1 {
   display: flex;
@@ -18,26 +24,30 @@
   border-radius: 50px;
   border: 2px solid var(--light-violet);
 }
-.quotation-marks img {
-  position: absolute;
-  width: 100px;
-  margin: 0 80px 180px ;
-}
 .card-2 {
   grid-area: card-2;
   background-color: var(--grayish-blue);
+  width: 256px;
+  height: 280px;
 }
 .card-3 {
   grid-area: card-3;
   background-color: var(--white);
+  width: 260px;
+  height: 572px;
+
 }
 .card-4 {
   grid-area: card-4;
   background-color: var(--white);
+  width: 258px;
+  height: 265px;
 }
 .card-5 {
   grid-area: card-5;
   background-color: var(--blackish-blue);
+  width: 540px;
+  height: 265px;
 }
 .user-5 .profile-picture img {
   border: 2px solid var(--violet);
