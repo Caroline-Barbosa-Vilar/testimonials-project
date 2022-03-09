@@ -4,7 +4,7 @@
                        "card-4 card-5 card-5 card-3";
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 25px;
-  background-color: var(--light-gray-blue);
+  margin: 165px;
 }
 .card-1 {
   grid-area: card-1;
@@ -17,6 +17,11 @@
   width: 30px;
   border-radius: 50px;
   border: 2px solid var(--light-violet);
+}
+.quotation-marks img {
+  position: absolute;
+  width: 100px;
+  margin: 0 80px 180px ;
 }
 .card-2 {
   grid-area: card-2;
