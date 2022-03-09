@@ -12,11 +12,13 @@
 }
 body {
   width: 1440px;
+  background-color: var(--light-gray-blue);
   font-family: 'Barlow Semi Condensed', sans-serif;
   Font-size: 13px;
 }
 .card {
   border-radius: 10px;
+  padding: 25px 30px;
 }
 .user {
   display: flex;
