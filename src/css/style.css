@@ -4,20 +4,26 @@
                        "card-4 card-5 card-5 card-3";
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 25px;
+  background-color: var(--light-gray-blue);
 }
 .card-1 {
   grid-area: card-1;
   background-color: var(--moderate-violet);
 }
+
 .card-2 {
   grid-area: card-2;
+  background-color: var(--grayish-blue);
 }
 .card-3 {
   grid-area: card-3;
+  background-color: var(--white);
 }
 .card-4 {
   grid-area: card-4;
+  background-color: var(--white);
 }
 .card-5 {
   grid-area: card-5;
+  background-color: var(--blackish-blue);
 }
