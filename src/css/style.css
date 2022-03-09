@@ -16,6 +16,10 @@
   max-width: 100%;
   background-position: 82% 0;
 }
+.card-1 .testimonial p {
+  font-size: 13px;
+  letter-spacing: 10%;
+}
 .user-1 {
   display: flex;
 }
@@ -30,18 +34,36 @@
   width: 256px;
   height: 280px;
 }
+.card-2 .testimonial p {
+  font-size: 12.5px;
+  width: 175px;
+  height: 89px;
+}
 .card-3 {
   grid-area: card-3;
   background-color: var(--white);
   width: 260px;
   height: 572px;
-
+}
+.card-3 .testimonial p {
+  line-height: 18px;
 }
 .card-4 {
   grid-area: card-4;
   background-color: var(--white);
   width: 258px;
   height: 265px;
+}
+.card-4 .testimonial {
+  width: 190px;
+  height: 150px;
+}
+.card-4 .testimonial span {
+  font-size: 20px;
+  opacity: 70%;
+}
+.card-4 .testimonial p {
+  font-size: 12px;
 }
 .card-5 {
   grid-area: card-5;
