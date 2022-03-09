@@ -12,3 +12,6 @@ body {
   font-family: 'Barlow Semi Condensed', sans-serif;
   Font-size: 13px;
 }
+.card {
+  border-radius: 5px;
+}
