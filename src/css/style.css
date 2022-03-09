@@ -10,7 +10,14 @@
   grid-area: card-1;
   background-color: var(--moderate-violet);
 }
-
+.user-1 {
+  display: flex;
+}
+.user-1 .profile-picture img {
+  width: 30px;
+  border-radius: 50px;
+  border: 2px solid var(--light-violet);
+}
 .card-2 {
   grid-area: card-2;
   background-color: var(--grayish-blue);
@@ -26,4 +33,7 @@
 .card-5 {
   grid-area: card-5;
   background-color: var(--blackish-blue);
+}
+.user-5 .profile-picture img {
+  border: 2px solid var(--violet);
 }
