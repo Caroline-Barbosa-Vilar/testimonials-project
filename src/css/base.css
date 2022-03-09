@@ -16,4 +16,19 @@ body {
 .card {
   border-radius: 10px;
 }
-
+.user {
+  display: flex;
+}
+.profile-picture img {
+  width: 30px;
+  border-radius: 50px;
+}
+.about-user {
+  padding-left: 15px;
+}
+.about-user p {
+  opacity: 70%;
+}
+h2 {
+  margin-bottom: 2px;
+}
