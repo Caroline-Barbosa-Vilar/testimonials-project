@@ -17,7 +17,7 @@
   background-position: 82% 0;
 }
 .card-1 .testimonial p {
-  font-size: 13px;
+  font-size: 1em;
   letter-spacing: 10%;
 }
 .user-1 {
@@ -35,8 +35,8 @@
   height: 280px;
 }
 .card-2 .testimonial p {
-  font-size: 12.5px;
-  width: 175px;
+  font-size: 1em;
+  width: 178px;
   height: 89px;
 }
 .card-3 {
@@ -44,6 +44,9 @@
   background-color: var(--white);
   width: 260px;
   height: 572px;
+}
+.card-3 .testimonial span {
+  opacity: 70%;
 }
 .card-3 .testimonial p {
   line-height: 18px;
@@ -59,11 +62,11 @@
   height: 150px;
 }
 .card-4 .testimonial span {
-  font-size: 20px;
+  font-size: 1.8em;
   opacity: 70%;
 }
 .card-4 .testimonial p {
-  font-size: 12px;
+  font-size: 1em;
 }
 .card-5 {
   grid-area: card-5;
@@ -73,4 +76,8 @@
 }
 .user-5 .profile-picture img {
   border: 2px solid var(--violet);
+}
+.attribution {
+  text-align: center;
+  margin: 30px;
 }
