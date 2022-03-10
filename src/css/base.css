@@ -9,6 +9,7 @@
   --violet:  #77499a;
 
   --barlow: 'Barlow Semi Condensed', sans-serif;
+  
 }
 html {
   font-size:62.5%;
@@ -57,7 +58,7 @@ body {
 }
 .testimonial p {
   opacity: 60%;
-  font-size: 13px;
+  font-size: 1em;
   line-height: 16px;
   letter-spacing: 2%;
   margin-top: 10px;
