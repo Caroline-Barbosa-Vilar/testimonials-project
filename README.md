@@ -1,20 +1,5 @@
 # Testimonials Project
 
-
-
-Desktop:
-
-<img src="./src/testimonials-desktop-screen.gif" alt="The PicPro payment app screen gif">
-
-Tablet:
-
-<img src="./src/testimonials-tablet-screen.gif" alt="The PicPro payment app screen gif">
-
-Mobile:
-
-<img src="./src/testimonials-mobile-screen.gif" alt="The PicPro payment app screen gif">
-
-
 ## Frontend Mentor Challenge
 
 The challenge was to build out this testimonials grid section and get it looking as close to the design as possible.
@@ -22,6 +7,19 @@ The challenge was to build out this testimonials grid section and get it looking
 The users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size.
+
+Desktop version:
+
+<img src="./src/testimonials-desktop-screen.gif" alt="The PicPro payment app screen gif">
+
+Tablet version:
+
+<img src="./src/testimonials-tablet-screen.gif" alt="The PicPro payment app screen gif">
+
+Mobile version:
+
+<img src="./src/testimonials-mobile-screen.gif" alt="The PicPro payment app screen gif">
+
 
 ## The challenge:
 
