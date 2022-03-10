@@ -10,6 +10,9 @@
 
   --barlow: 'Barlow Semi Condensed', sans-serif;
 }
+html {
+  font-size:62.5%;
+}
 body {
   width: 1440px;
   background-color: var(--light-gray-blue);
