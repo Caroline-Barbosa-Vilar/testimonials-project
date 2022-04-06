@@ -22,15 +22,15 @@ https://bo83dev.github.io/testimonials-project/
 
 Desktop version:
 
-<img src="./src/testimonials-desktop-screen.gif" alt="The PicPro payment app screen gif">
+<img src="./src/testimonials-desktop-screen.gif" alt="The testimonials grid desktop screen gif">
 
 Tablet version:
 
-<img src="./src/testimonials-tablet-screen.gif" alt="The PicPro payment app screen gif">
+<img src="./src/testimonials-tablet-screen.gif" alt="The testimonials grid tablet screen gif">
 
 Mobile version:
 
-<img src="./src/testimonials-mobile-screen.gif" alt="The PicPro payment app screen gif">
+<img src="./src/testimonials-mobile-screen.gif" alt="The testimonials grid mobile screen gif">
 
 
 ## The challenge:
