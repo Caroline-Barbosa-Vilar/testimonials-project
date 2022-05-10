@@ -18,7 +18,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [What I learned](#what-I-learned)
 
-- [Comparing the result] (#comparing-the-result)
+- [Comparing the result](#comparing-the-result)
 
 - [Access the Project](#access-the-project)
 
@@ -89,7 +89,7 @@ Tablet:
 
 - [O que aprendi](#o-que-aprendi)
 
-- [Comparando o resultado] (#comparando-o-resultado)
+- [Comparando o resultado](#comparando-o-resultado)
 
 - [Acesse o projeto](#acesse-o-projeto)
 
