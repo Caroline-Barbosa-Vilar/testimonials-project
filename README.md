@@ -54,6 +54,8 @@ This is a 'Testimonials' page of a Bootcamp participants of a fictitious program
 
 ## Access the Project
 
+You can [access the project here](https://bo83dev.github.io/testimonials-project/) 
+
 Mobile:
 
 <img src="./src/testimonials-mobile-screen.gif" alt="The testimonials grid mobile screen gif">
@@ -123,6 +125,8 @@ Essa é a uma página de 'Testemunho' de participantes do Bootcamp de um curso d
 
 
 ## Acesse o projeto
+	
+Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-project/)
 
 Mobile:
 
