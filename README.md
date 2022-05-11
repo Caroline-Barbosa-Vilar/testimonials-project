@@ -100,7 +100,7 @@ Tablet:
 
 <p align="justify">
 
-Essa é a uma página de 'Testemunho' de participantes do Bootcamp de um curso de programação fictício. Esse projeto é um dos desafios propostos no site 'Frontend Mentor' e o desafio é recriar o projeto sem o auxílio de ferramentas de design (figma) deixando-o mais próximo possível do solicitado. 
+Essa é a uma página de 'Testemunho' de participantes do Bootcamp de um curso de programação fictício. Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home) e o desafio é recriar o projeto sem o auxílio de ferramentas de design (figma) deixando-o mais próximo possível do solicitado. 
 
 [O desafio](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
