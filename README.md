@@ -27,7 +27,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <p align="justify">
 
-This is a 'Testimonials' page of a Bootcamp participants of a fictitious programming course. This project is one of the challenges proposed on the [Frontend Mentor](https://www.frontendmentor.io/home) site. The challenge is to recreate the project without the aid of the design tools (figma) and making it as close as possible to the requested one. 
+This is a 'Testimonials' page of a Bootcamp participants of a fictitious programming course. This project is one of the challenges proposed on the [Frontend Mentor](https://www.frontendmentor.io/home) site. The challenge is to recreate the project without the guidance of a design tool (figma) and making it as close as possible to the requested one. 
 
 [The challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
