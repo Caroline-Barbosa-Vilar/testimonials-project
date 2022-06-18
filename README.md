@@ -54,7 +54,7 @@ This is a 'Testimonials' page of a Bootcamp participants of a fictitious program
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/testimonials-project/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/testimonials-project/) 
 
 Mobile:
 
@@ -126,7 +126,7 @@ Essa é a uma página de 'Testemunho' de participantes do Bootcamp de um curso d
 
 ## Acesse o projeto
 	
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-project/)
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/testimonials-project/)
 
 Mobile:
 
@@ -143,4 +143,4 @@ Tablet:
 
 <hr>
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
